@@ -8,6 +8,7 @@ To contribute:
   
 2. `cd` to the directory you downloaded it in, and download the theme submodules:
 
+  `cd ./pastries-by-grey-com/`
   `git submodule update --init --recursive`
   
 3. Install [hugo](https://gohugo.io)
