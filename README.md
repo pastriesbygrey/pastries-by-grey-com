@@ -17,6 +17,6 @@ To contribute:
   * via `brew`: `brew install hugo`
   * via `scoop`: `scoop install hugo`
   
-4. Lastly you can run `hugo serve` and open view the built site in your browser!
+4. Lastly you can run `hugo serve` and open to view the site in your browser!
 
 [Hugo Documentation](https://gohugo.io/documentation/)
